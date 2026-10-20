@@ -11,3 +11,14 @@ scripts -  Scripts used for data processing, modeling, and analysis.
 data.csv - Example datasets.
 
 README.md — Documentation for the repository.
+
+## Software Requirements
+The codes were developed and tested using the following software:
+
+Programming Language: R
+
+Software Version: 4.4.2
+
+Operating System: Windows
+
+Required Packages: "caret", "glmnet", "rapart", "nnet"
